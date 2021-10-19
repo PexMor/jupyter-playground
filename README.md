@@ -19,3 +19,5 @@ As an example the `sm_md` worked on **Jupyter Hub** local install, plain **Jupyt
 
 * [regression-in-pytorch.ipynb](regression-in-pytorch.ipynb) - Jon Krohn notebook with some tweaks showing converging lines
 * [Jupyter GIT](https://github.com/jupyterlab/jupyterlab-git) - installable extension
+
+[run-in-docker.sh](run-in-docker.sh) - quick start for dockerized **Jupyter**
