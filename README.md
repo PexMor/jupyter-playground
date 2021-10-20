@@ -11,6 +11,7 @@ A place to share some Pythonish things wrapped into Jupyter
 
 * [MathJax](https://www.mathjax.org/) - a javascript lib to display math ([input](http://docs.mathjax.org/en/latest/options/input/index.html): LaTeX, MathML, AsciiMath)
 * [sm_md.py](sm_md.py) - test matrix display function
+* [MatrixMathJax.ipynb](MatrixMathJax.ipynb) - Better display of matrices
 
 Please note that the formating functions like `IPython.display.Markdown` or `IPython.display.Latex` might not be available on all instances of Jupyter.
 As an example the `sm_md` worked on **Jupyter Hub** local install, plain **Jupyter** in virtualenv, also on [https://colab.research.google.com](https://colab.research.google.com), todo test on [https://mybinder.org/](https://mybinder.org/) as well.
